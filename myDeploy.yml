@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: myJavaapp_deploy
+  name: myJavaappdeploy
   labels:
     app: myjavaapp 
 spec:
